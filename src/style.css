@@ -1,0 +1,12 @@
+:root {
+  --title_color: #98ff98;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #212121;
+  /* Yellow Green (#9ACD32)
+  Forest Green (#228B22)
+  Lime Green (#32CD32) */
+}
